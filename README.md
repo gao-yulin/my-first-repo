@@ -5,3 +5,5 @@ I will update some excellent learning sources from Internet or anything else
 https://billtsnet.app/user/shop    which is accessible on PC, Android, IOS
 #ITresources:
 http://www.umji.sjtu.edu.cn/
+---2020/6/30
+I will focus on it
